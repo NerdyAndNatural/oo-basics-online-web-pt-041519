@@ -42,7 +42,7 @@ class Shoe
   end
  
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts "The shoe has been repaired"
   end
  
 end

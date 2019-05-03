@@ -14,23 +14,23 @@ class Shoe
   end
  
   def color
-    @author
+    @color
   end
  
-  def page_count=(num)
-    @page_count = num
+  def size=(num)
+    @size = num
   end
  
-  def page_count
-    @page_count
+  def size
+    @size
   end
  
-  def genre=(genre)
-    @genre = genre
+  def material=(material)
+    @material = material
   end
  
-  def genre
-    @genre
+  def material
+    @material
   end
  
   def turn_page
